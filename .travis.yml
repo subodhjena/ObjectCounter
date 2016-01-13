@@ -3,7 +3,9 @@ jdk: oraclejdk8
 
 android:
   components:
+    - tools
     - build-tools-23.0.2
+    - android-23
 
 script:
     - echo "Travis branch is $TRAVIS_BRANCH"
