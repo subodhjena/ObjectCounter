@@ -1,4 +1,4 @@
 # ObjectCounter 
 [![Build Status](https://travis-ci.org/jenasubodh/ObjectCounter.svg?branch=master)](https://travis-ci.org/jenasubodh/ObjectCounter)
 
-An android application to count objects in an image with the help of OpenCV
+An example of OpenCV used by Android Application. This application demonstrates about how we can OpenCV to do real time image processing.
