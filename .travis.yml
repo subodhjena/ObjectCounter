@@ -5,6 +5,7 @@ android:
     # use the latest revision of Android SDK Tools
     # - platform-tools
     # - tools
+    - gradle build ObjectCounter
 
     # The BuildTools version used by your project
     - build-tools-23.0.2
