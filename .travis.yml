@@ -5,10 +5,9 @@ android:
     # use the latest revision of Android SDK Tools
     # - platform-tools
     # - tools
-    - gradle build ObjectCounter
 
     # The BuildTools version used by your project
-    - build-tools-23.0.2
+    - build-tools-23.0.0
 
     # The SDK version used to compile your project
     - android-23
@@ -23,3 +22,5 @@ android:
     # if you need to run emulator(s) during your tests
     - sys-img-armeabi-v7a-android-19
     - sys-img-x86-android-17
+    
+    - gradle build ObjectCounter
