@@ -7,6 +7,8 @@ This application counts the color blobs available in an camera screen. If you lo
 
 ![Screenshot of Andriod app counting the color Blobs](https://dl.dropboxusercontent.com/s/2lmma5z3bor90vq/color%20blob%20detection%20android%20opencv.png?dl=0"Color Blob")
 
+Find the respective tutorial here : http://subodhjena.com/opencv-android-an-object-counting-application/
+
 Please feel free to fork it.
 
 
